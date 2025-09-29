@@ -1,1 +1,2 @@
-
+Learning Git step by step with friend -> chatgpt 
+Learning Git step by step
