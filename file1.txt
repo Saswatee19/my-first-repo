@@ -2,3 +2,4 @@ Learning Git step by step with friend -> chatgpt
 Learning Git step by step
 This line belongs to MAIN branch
 This line belongs to FEATURE-1 branch
+This ia a new line only for FEATURE-1 branch
